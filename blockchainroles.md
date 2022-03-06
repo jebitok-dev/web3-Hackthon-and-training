@@ -1,0 +1,4 @@
+- [Uniswap](https://jobs.lever.co/Uniswap)
+- [AAVE](https://aave.com/careers/): contact them with your resume
+- [cryptojoblist](https://cryptojobslist.com/)
+- [Paradigm](https://www.paradigm.xyz/opportunities) opportunities

@@ -17,3 +17,4 @@ Here are a list of blockchain programs/courses/schools that you can register to 
 
 - [Smart Contract Programmer - YouTube ](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA): It has videos of writing different smart contract and understanding/mastering Solidity.
 
+- [BSC X ChainIDE Developer Bootcamp](https://bscbuilderbootcamp.com/): Binance Smart Chain in collaboration with ChainIDE are running their first Developer Bootcamp that focuses on NFTs, Blockchain games and Metaverse. You can register for this and updates on future ones.
